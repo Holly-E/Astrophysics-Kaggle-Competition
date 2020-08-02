@@ -12,3 +12,6 @@ Create new techniques with the data available using photometry.
 
 ## Model
 I put together my submission based on my own research as well as a combination of ideas from the kaggle competition discussions. It scored in the top 39%.
+
+[Submission code.](https://github.com/Holly-E/Astrophysics-Kaggle-Competition/blob/master/Submission_code.pdf)
+
